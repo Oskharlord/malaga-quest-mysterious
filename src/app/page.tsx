@@ -180,7 +180,7 @@ export default function Home() {
                       🎭 <span className="text-primary font-semibold">Habla con el Maestro del Enigma</span> y sumérgete en un escape room real por las calles de Málaga.
                     </p>
                     <p className="text-foreground/80 text-sm">
-                      🌍 Juego guiado por una IA que te dejará con la boca abierta • 🧠 Español + English • ⏱️ 3-6 horas • 💰 10€
+                      🤖 Powered by Claude Sonnet - La IA más avanzada • 🧠 Español + English • ⏱️ 3-6 horas • 💰 10€
                     </p>
                     <p className="text-accent/90 text-sm font-medium">
                       👣 Requiere moverse por el centro histórico para superar los misterios
